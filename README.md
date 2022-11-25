@@ -4,6 +4,7 @@ The chat bot built here is a contextual assistant built using Rasa. The contextu
 Rasa is a set of open source machine learning tools for developers for developing conversational AI.It has 2 main components 
  1. NLU: An open-source natural language processing tool for intent classification and entity extraction.
  2. Core: framework for machine learning based contextual decision making.
+
 ### Set-Up
 run the following commands
 1. rasa init
