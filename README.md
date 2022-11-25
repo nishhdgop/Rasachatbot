@@ -11,5 +11,5 @@ run the following commands
 - This command opens up a chat bot that allows us to interact with the bot.
 
 #### Sample Interaction:
-<img src="./Screenshot 2022-11-16 at 9.55.53 PM.png" width="500" align="middle">
+<img src="./Screenshot 2022-11-25 at 7.12.21 PM.png" width="500" align="middle">
 
