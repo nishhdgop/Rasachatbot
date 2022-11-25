@@ -1,0 +1,177 @@
+## intent:greet
+- hi there
+- hello there
+- hey
+- hi
+- hey bot
+- good morning
+- goodmorning
+- hello
+- goodevening
+- goodafternoon
+- good evening
+- morning
+- good afternoon
+- howdy
+- heya
+
+## intent:inform
+- [afghan](cuisine) food
+- how bout [asian oriental](cuisine)
+- what about [indian](cuisine) food
+- uh how about [turkish](cuisine) type of food
+- um [english](cuisine)
+- im looking for [tuscan](cuisine) food
+- restaurant in the [east](location) of town
+- id like [moroccan](cuisine) food
+- im looking for a restaurant in the [east](location) town
+- [north](location) part of town
+- [north](location) part
+- [french](cuisine) food
+- serves [british](cuisine) food
+- i am craving some [japanese](cuisine) food
+- i want a restaurant in the [south](location) part of town
+- id like a restaurant in any area that it serves [canapes](cuisine)
+- im looking for a restaurant in the [south](location) part of town serving [jamaican](cuisine) food
+- um what about [italian](cuisine) food
+- im looking for a restaurant in the [north](location) part of town
+- the [south](location) part of town
+- im looking for [corsica](cuisine) food
+- [south](location)
+- im looking for a restaurant that serves sea food
+- im looking for [world](cuisine) food
+- im looking for a restaurant that serves [french](cuisine) food
+- how about [indian](cuisine) food
+- can i get a restaurant serving [chinese](cuisine) food
+- [irish](cuisine) food
+- im looking for a restaurant in the [west](location) part of town serving [italian](cuisine) food
+- restaurant [south](location) part of town [english](cuisine) food
+- [spanish](cuisine) food
+- how bout one that serves [portuguese](cuisine) food and is cheap
+- [german](cuisine)
+- i need a restaurant in the [north](location) of town
+- [korean](cuisine) food
+- im looking for [romanian](cuisine) food
+- i want to find a restaurant that serves [canapes](cuisine) food
+- [gastropub](cuisine)
+- i want a restaurant that serves [french](cuisine) food
+- restaurant [north](location) part of town fast food
+- how about [modern european](cuisine) type of food
+- im looking for a restaurant on the [east](location) part of town that serves scandinavia food
+- the [west](location) part of town
+- i want to find a restaurant and it should serve [scandinavian](cuisine) food
+- how [european](cuisine)
+- how about [european](cuisine) food
+- the [south](location) part of town id like a restaurant that serves [traditional](cuisine) food
+- i need a restaurant that serves [indonesian](cuisine) food
+- [modern european](cuisine)
+- id like to find a restaurant in the [east](location) part of town
+- looking for a restaurant that serves [brazilian](cuisine)
+- i would like [modern european](cuisine) food
+- looking for a restaurant that serves [lebanese](cuisine) food
+- [east](location) part of town
+- [west](location)
+- restaurant in the [west](location) part of town
+- [portuguese](cuisine)
+- [european](cuisine)
+- food in the [south](location) of town
+- i want a restaurant that serves [polish](cuisine) food
+- id like a [thai](cuisine) restaurant
+- i want to find a restaurant that serves [moroccan](cuisine) food
+- [afghan](cuisine)
+- restaurant [scottish](cuisine) food
+- how about [vietnamese](cuisine)
+- hi im looking for [mexican](cuisine) food
+- how about [indian](cuisine) type of food
+- i would like a restaurant in the [north](location) part of town
+- restaurant in the [west](location) part of town
+- [polynesian](cuisine) food
+- [mexican](cuisine)
+- looking for a restaurant in the [south](location) part of town
+- restaurant any area [japanese](cuisine) food
+- im looking for a restaurant in the [north](location) part of town
+- what about [thai](cuisine) food
+- how about [asian oriental](cuisine) food
+- i am looking for a restaurant in [london](location)
+- im looking for a restaurant that serves [japanese](cuisine) food
+- im looking for a restaurant in the [north](location) part of town that serves [belgian](cuisine) food
+- im looking for a restaurant that serves [turkish](cuisine) food
+- restaurant in [west](location) part of town serving [corsica](cuisine) food
+- is there a restaurant serving [british](cuisine) food
+- [world](cuisine) food
+- im looking for something serves [japanese](cuisine) food
+- im looking for a restaurant and it should be in the [south](location) part of town
+- id like a [greek](cuisine) restaurant in the [east](location) part of town
+- im looking for a restaurant serving [malaysian](cuisine) food
+- i want to find a restaurant serving [world](cuisine) food
+- im looking for a restaurant in the [south](location) part of town that serves pan asian food
+- looking for a restaurant that serves [afghan](cuisine) food
+- actually i would prefer in [madrid](location)
+- what is a good restaurant that serves [portuguese](cuisine) food
+- [asian oriental](cuisine) food
+- im looking for a restaurant that serves [russian](cuisine) food
+- [corsica](cuisine)
+- id like a restaurant that serves mediteranean food
+- in [south](location) part
+- [west](location) part of town
+- [north](location)
+- [asian oriental](cuisine)
+- restaurant in the [east](location) part of town serving [basque](cuisine) food
+- i am looking for a restaurant and it should be in the [west](location) part of town
+- how about [italian](cuisine)
+- looking for [spanish](cuisine) food in the center of town
+- im looking for a restaurant in any area it should serve [gastropub](cuisine) food
+- [welsh](cuisine) food
+- i want [vegetarian](cuisine) food
+- im looking for [swedish](cuisine) food
+- um how about [chinese](cuisine) food
+- a restaurant in the [east](location) part of town that serves [caribbean](cuisine) food
+- i need a restaurant in the [east](location) part of town
+- in the [west](location) part
+- restaurant serving [world](cuisine) food
+- can i have a [seafood](cuisine) restaurant please
+- how about [italian](cuisine) food
+- how about [korean](cuisine)
+- uh restaurant in [north](location) part of town
+- [corsica](cuisine) food
+- [scandinavian](cuisine)
+- restaurant that serves [vegetarian](cuisine) food
+- what about [italian](cuisine)
+- how about [portuguese](cuisine) food
+- im looking for a restaurant serving [french](cuisine) food
+- looking for a restaurant and it needs to be in the [south](location) part of town
+- [south](location) part
+- [tuscan](cuisine) food
+- how about uh [gastropub](cuisine)
+- im looking for a restaurant in the [east](location) part that serves [creative](cuisine) food
+- im looking for a restaurant in the [south](location) part of town that serves [malaysian](cuisine) food
+- i'd like to book a table in [madrid](location) with [spanish](cuisine) cuisine
+- i need a restaurant in the [west](location) part of town
+- im looking for a restaurant that serves [unusual](cuisine) food
+- im looking for a restaurant for [danish](cuisine) food
+- how about [spanish](cuisine) food
+
+## intent:thankyou
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- thank you good bye
+- thank you goodbye
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you
+- thank you good bye
+- thanks
+- thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
