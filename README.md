@@ -17,3 +17,7 @@ run the following commands
 #### Sample Interaction:
 <img src="./Screenshot 2022-11-25 at 7.12.21 PM.png" width="500" align="middle">
 
+
+
+https://user-images.githubusercontent.com/108075033/219852380-b33abaf5-a792-4b49-93f7-f37d86dc8c65.mp4
+
